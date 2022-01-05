@@ -1,2 +1,1 @@
-<strong> Sarah </strong>
-
+Hey, I'm Sarah!
